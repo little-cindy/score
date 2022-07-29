@@ -20,6 +20,24 @@ td>b,td>a>b,body>b{
     font:"Comic Sans MS";
     font-size:20px;
 }
-table{
-    margin: auto;
+input{
+    font-size: 15px;
+    border: none;
+    background: rgb(52, 152, 219);
+    color: white;
+    border-radius: 5px;
+    margin: 3px;
+    transition: 0.5s;
+}
+input:hover{
+    background: white;
+    color: rgb(52, 152, 219);
+    font-size: 20px;
+    margin: 5px;
+}
+input:active{
+    background: red;
+    color: white;
+    font-size: 25px;
+    margin: 7px;
 }
