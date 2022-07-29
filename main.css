@@ -20,6 +20,9 @@ td>b,td>a>b,body>b{
     font:"Comic Sans MS";
     font-size:20px;
 }
+table{
+    margin: auto;
+}
 input{
     font-size: 15px;
     border: none;
