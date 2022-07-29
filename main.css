@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.color1{
+    color:#52c41a;
+}
+.color2{
+    color:#fadb14;
+}
+.color3{
+    color:#f39C11;
+}
+.color4{
+    color:#e74c3c;
+}
+a{
+    text-decoration:none;
+}
+td>b,td>a>b,body>b{
+    font:"Comic Sans MS";
+    font-size:20px;
+}
+table{
+    margin: auto;
+}
